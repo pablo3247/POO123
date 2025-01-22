@@ -13,6 +13,22 @@ public class Cuenta {
          this.titular = titular;
      }
 
+    public void setTitular(String titular) {
+        this.titular = titular;
+    }
+
+    public void setCantidad(double cantidad) {
+        this.cantidad = cantidad;
+    }
+
+    public String getTitular() {
+        return titular;
+    }
+
+    public double getCantidad() {
+        return cantidad;
+    }
+
     public void ingresar(double cantidad){
          if(cantidad >0){
              this.cantidad =this.cantidad + cantidad;
