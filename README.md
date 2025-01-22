@@ -1,4 +1,4 @@
-# Ejerecicios de POO 🌩️
+# Ejercicios de POO 🌩️
 
 
 ## Introduccion a la POO
