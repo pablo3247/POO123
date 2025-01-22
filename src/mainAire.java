@@ -13,30 +13,34 @@ public class mainAire {
         System.out.println("___________________________");
         System.out.println("INGRESA: \n +(subir), \n -(bajar),\n 0(para salir)");
 
-        char control =' ';
+        String control =" ";
 
+        char controlDefinitivo=' ';
         Scanner sc = new Scanner(System.in);
 
-        while(control != '0'){
-
-           if(sc.nextLine().length()>0){
-               control = sc.nextLine().charAt(0);
-//               if(sc.nextLine().charAt(0)!= '+'|sc.nextLine().charAt(0)!= '-'| sc.nextLine().charAt(0)!= '0' ){
-//                   System.out.println("Ingresa un valor valido!");
-//                   control = sc.nextLine().charAt(0);
-//               }
-           }else {
+        while(controlDefinitivo != '0'){
+            control = sc.nextLine();
+           if(control.isEmpty() | (control.length() >1)) {
                System.out.println("INGRESA UN VALOR VALIDO!");
-            }
+           }
+           else {
+               controlDefinitivo=control.charAt(0);
+                switch (controlDefinitivo){
+                    case '+':
+                        maquina1.subirTemp();
+                        System.out.println(maquina1);
+                        break;
 
-
-            if(control == '+'){
-                maquina1.subirTemp();
-            } else if (control == '-') {
-                maquina1.bajarTemp();
+                    case '-':
+                        maquina1.bajarTemp();
+                        System.out.println(maquina1);
+                        break;
+                    case '0':
+                        break;
+                    default:
+                        System.out.println("INGRESA UN VALOR VALIDO!");
+                }
             }
-            System.out.println(maquina1);
         }
-
     }
 }
