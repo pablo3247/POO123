@@ -2,16 +2,20 @@ public class Aire {
 
     private String name;
     private int temperatura;
+    private int minTemp;
+    private int maxTemp;
 
-    public Aire(String name){
+    public Aire(String name,int temperatura, int minTemp, int maxTemp){
 
         this.name = name;
-        this.temperatura = 5;
+        this.temperatura = temperatura;
+        this.minTemp = minTemp;
+        this.maxTemp = maxTemp;
     }
 
 
     public void subirTemp(){
-        if(temperatura == 10){
+        if(temperatura >= maxTemp){
             System.out.println("PELIGRO! TEMPERATURA MAXIMA ALCANZADA!");
         }else {
             temperatura++;
@@ -20,7 +24,7 @@ public class Aire {
 
     }
     public void bajarTemp(){
-        if(temperatura == 1){
+        if(temperatura <= minTemp){
             System.out.println("PELIGRO! TEMPERATURA MINIMA ALCANZADA!");
 
         }else {

@@ -5,7 +5,7 @@ import static java.sql.Types.NULL;
 public class mainAire {
     public static void main(String[] args) {
 
-        Aire maquina1 = new Aire("maquina1");
+        Aire maquina1 = new Aire("maquina1",5,1,10);
 
         System.out.println(maquina1);
 

@@ -1,6 +1,6 @@
 public class Ordenadores {
 
-    private String name;
+   final  private String name;
     private double precio;
     private String procesador;
     private String ram;
@@ -25,6 +25,20 @@ public class Ordenadores {
         this.precio =precio;
     }
 
+    public void setProcesador(String procesador){
+        this.procesador = procesador;
+    }
+
+    public void setRam(String ram){
+        this.ram = ram;
+    }
+
+    public void setGrafica(String grafica){
+        this.grafica = grafica;
+    }
+    public void setTipo(String tipo){
+        this.tipo = tipo;
+    }
 
     @Override
     public String toString(){
