@@ -9,6 +9,7 @@ public class Aire {
         this.temperatura = 5;
     }
 
+
     public void subirTemp(){
         if(temperatura == 10){
             System.out.println("PELIGRO! TEMPERATURA MAXIMA ALCANZADA!");

@@ -9,6 +9,7 @@ public class mainAire {
 
         System.out.println(maquina1);
 
+
         System.out.println("___________________________");
         System.out.println("INGRESA: \n +(subir), \n -(bajar),\n 0(para salir)");
 
