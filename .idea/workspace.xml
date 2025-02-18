@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ac01ecd-c733-49a7-bd90-d310bcf93894" name="Changes" comment="Acabado ejercicio 4">
+    <list default="true" id="6ac01ecd-c733-49a7-bd90-d310bcf93894" name="Changes" comment="Modificacion general">
       <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Directivo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Empleado.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Oficial.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Operario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Tecnico.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Student/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
@@ -155,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737583633852</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Modificacion general">
+      <option name="closed" value="true" />
+      <created>1739879681484</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739879681484</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +174,7 @@
     <MESSAGE value="Ejercicio2 acabado" />
     <MESSAGE value="Modificaciones" />
     <MESSAGE value="Acabado ejercicio 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Acabado ejercicio 4" />
+    <MESSAGE value="Modificacion general" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificacion general" />
   </component>
 </project>
