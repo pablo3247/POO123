@@ -12,7 +12,7 @@ public class Editorial{
         this.libros = new HashSet<>();
     }
 
-    //Además del setter por defecto, creamos otro para poder añadir un Libro
+    //Además del setter por defecto, creamos otro para poder añadir un EjerciciosAcabados.Libro
     public void addLibro(Libro libro){
         this.libros.add(libro);
     }

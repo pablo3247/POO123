@@ -5,21 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ac01ecd-c733-49a7-bd90-d310bcf93894" name="Changes" comment="Acabado ejercicio 4">
-      <change afterPath="$PROJECT_DIR$/src/Ejemplos/Editorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejemplos/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejemplos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/Banc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/CompteCorrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/Domiciliacio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/Prestec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/Sucursal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainLibro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Directivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Oficial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Operario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Aire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejemplos/Editorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/Editorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejemplos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio5/Banc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio5/Banc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/MainLibro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ordenadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Ordenadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Tema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainAire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainAire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainCuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainOrdenadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainOrdenadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/pruebas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +54,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/pablo3247/POO.git&quot;,
-    &quot;accountId&quot;: &quot;ace51279-60fe-4183-9daa-dfdd5ad92662&quot;
+    &quot;url&quot;: &quot;https://github.com/pablo3247/POO123.git&quot;,
+    &quot;accountId&quot;: &quot;03afeeed-f43d-4eb6-85c8-84ac9bbc51b2&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -60,6 +70,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.mainAire.executor": "Run",
     "Application.mainCuenta.executor": "Run",
     "Application.mainOrdenadores.executor": "Run",

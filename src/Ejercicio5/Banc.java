@@ -27,11 +27,11 @@ public class Banc {
         this.sucursales.add(a);
     }
 
-
-@Override
-public String toString(){
-        return this.n_ent + this.sucursal;
-}
-
+//
+//@Override
+//public String toString(){
+//        return this.n_ent + this.sucursal;
+//}
+//
 
 }

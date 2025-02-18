@@ -1,6 +1,6 @@
-import java.util.Scanner;
+package EjerciciosAcabados;
 
-import static java.sql.Types.NULL;
+import java.util.Scanner;
 
 public class mainAire {
     public static void main(String[] args) {

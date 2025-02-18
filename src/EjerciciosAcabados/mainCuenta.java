@@ -1,3 +1,5 @@
+package EjerciciosAcabados;
+
 public class mainCuenta {
     public static void main(String[] args) {
 

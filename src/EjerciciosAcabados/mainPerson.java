@@ -1,3 +1,5 @@
+package EjerciciosAcabados;
+
 public class mainPerson {
     public static void main(String[] args) {
 
