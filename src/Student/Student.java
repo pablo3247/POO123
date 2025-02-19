@@ -14,6 +14,7 @@ public class Student {
     paco.setAddress("Calle");
 
 
+        System.out.println( paco.comprobarDNI("12345678Z"));
 
         System.out.println(paco);
 

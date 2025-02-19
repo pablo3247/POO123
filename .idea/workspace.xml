@@ -5,32 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ac01ecd-c733-49a7-bd90-d310bcf93894" name="Changes" comment="Modificacion general">
-      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Directivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Oficial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Operario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/Tecnico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoTrabajadores/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoNetwork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoNetwork/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoNetwork/mensaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoNetwork/usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/prueba1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Aire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Cuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejemplos/Editorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/Editorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejemplos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio5/Banc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio5/Banc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/MainLibro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ordenadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Ordenadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/Tema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainAire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainAire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainOrdenadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainOrdenadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/mainPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosAcabados/pruebas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,21 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.mainAire.executor": "Run",
-    "Application.mainCuenta.executor": "Run",
-    "Application.mainOrdenadores.executor": "Run",
-    "Application.mainPerson.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainAire.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainCuenta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainOrdenadores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainPerson.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -164,8 +146,27 @@
       <option name="project" value="LOCAL" />
       <updated>1739879681484</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Modificacion general">
+      <option name="closed" value="true" />
+      <created>1739879996236</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739879996236</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prueba" />
